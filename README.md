@@ -47,13 +47,13 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 > Designed a hybrid system (Rule-based + ML) to identify and block malicious websites, achieving **99.24% accuracy** on real-world traffic data for a cybersecurity partner (SCS).
 >
 > <sub>**Tech:** PyTorch, HDFS, FastAPI, Docker, Feature Engineering, Monitoring</sub>  
-> ➡️ **[View Project Details & My Role](https://github.com/ciTy1504/showcase-malicious-domain-detection)**
+> ➡️ **[View Project Details & My Role](https://github.com/ciTy1504/Toxic-Domain-Detection)**
 
 ### 🤖 AI-Powered Language Learning App (Personal Project)
 > A full-stack web application to help users learn English/Chinese. Integrated LLMs for 8 features including interactive chat, grammar correction, and text-to-speech.
 >
 > <sub>**Tech:** React, Tailwind, Node.js, Express, Vector Embeddings, LLM APIs</sub>  
-> ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/ai-language-learning-app)**
+> ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/EngChi)**
 
 ## 🚀 Tech Stack
 
