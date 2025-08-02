@@ -95,8 +95,8 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ciTy1504&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciTy1504&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ciTy1504&show_icons=true&theme=radical&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciTy1504&layout=compact&theme=radical&count_private=true&hide=css,html,shell,dockerfile" width="47%" />
 </p>
 
 ---
