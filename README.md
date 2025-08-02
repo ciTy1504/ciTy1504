@@ -88,7 +88,14 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 - **🛢️ Databases & Tools:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,github,vscode" />
+    </a>
+  </p>
+
+- **✨ Programming Languages:**
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,cpp,java,bash" />
     </a>
   </p>
 
