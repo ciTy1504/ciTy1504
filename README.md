@@ -1,12 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Đinh Công Thái 👋
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&column=7"/>
-  </a>
-</p>
 
-I'm an AI Engineer and Researcher with a deep passion for **Natural Language Processing (NLP)**. My core focus is on building intelligent systems that can understand, interpret, and generate human language. I'm fascinated by the power of Large Language Models (LLMs), semantic search, and creating meaningful applications from unstructured text data.
+I'm an AI Engineer and Researcher with a deep passion for **Natural Language Processing (NLP) & Machine Learning (ML)** . My core focus is on building intelligent systems that can understand, interpret, and generate human language. I'm fascinated by the power of Large Language Models (LLMs), semantic search, and creating meaningful applications from unstructured text data.
 
 I also have a solid background in full-stack web development, which I leverage to build interactive demos and deploy my models as robust, scalable APIs and applications.
 
