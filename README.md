@@ -67,38 +67,31 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 > <sub>**Tech:** JavaFX
 > ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/MoneyManager-main)**
 
-## 🚀 Tech Stack
+### 🧠 My Core Expertise & Technical Skills
 
-My skill set is centered around the AI/ML ecosystem, with a strong supporting foundation in web technologies.
+My skill set is centered around the AI/ML ecosystem, with a strong supporting foundation in web technologies and a focus on efficient tooling.
 
-- **🤖 AI & Natural Language Processing:**
+- **🤖 AI, Machine Learning & Data Science:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,pandas,numpy,jupyter" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,sklearn,pandas,numpy,jupyter,opencv&cache_bust=1" />
     </a>
   </p>
 
 - **🌐 Web Development & Deployment:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,fastapi,flask,docker,aws,gcp" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nextjs,nodejs,fastapi,flask,docker,aws,gcp&cache_bust=1" />
     </a>
   </p>
   
-- **🛢️ Databases & Tools:**
+- **🛢️ Languages, Databases & Tools:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=java,cpp,c,bash,postgresql,mongodb,redis,git,github,vscode,latex,notion&cache_bust=1" />
     </a>
   </p>
-
-- **✨ Programming Languages:**
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,cpp,java,bash" />
-    </a>
-  </p>
-
+  
 ## 📊 GitHub Stats
 
 <p align="center">
