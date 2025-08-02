@@ -57,11 +57,28 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,dart,python,cpp,js,java,mongodb,mysql,tailwind,firebase,pytorch" />
-</p>
+My skill set is centered around the AI/ML ecosystem, with a strong supporting foundation in web technologies.
 
----
+- **🤖 AI & Natural Language Processing:**
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,pandas,numpy,jupyter" />
+    </a>
+  </p>
+
+- **🌐 Web Development & Deployment:**
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,fastapi,flask,docker,aws,gcp" />
+    </a>
+  </p>
+  
+- **🛢️ Databases & Tools:**
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github,vscode" />
+    </a>
+  </p>
 
 ## 📊 GitHub Stats
 
