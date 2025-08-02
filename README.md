@@ -43,6 +43,12 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 > <sub>**Tech:** YOLOv8, PyTorch, OpenCV, Video Streaming, Incremental Learning</sub>  
 > ➡️ **[View Project Details & My Role](https://github.com/ciTy1504/showcase-video-analysis-system)**
 
+### 🛡️ Network Anomaly Detection (IDS/IPS)
+> **Partner: SCS** | Developed an ML-based Intrusion Detection System to identify anomalous network behavior. The system analyzes multi-level data (packet, host, application) to enhance detection accuracy. I was responsible for data analysis, experimenting with models, and proposing solution improvements.
+>
+> <sub>**Tech:** XGBoost, Isolation Forest, Time-series Embedding, Scapy, Wireshark</sub>  
+> ➡️ **[View Project Details & My Role](https://github.com/ciTy1504/showcase-ids-ips-system)**
+
 ### 🌐 Malicious Domain Detection
 > Designed a hybrid system (Rule-based + ML) to identify and block malicious websites, achieving **99.24% accuracy** on real-world traffic data for a cybersecurity partner (SCS).
 >
@@ -54,6 +60,12 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 >
 > <sub>**Tech:** React, Tailwind, Node.js, Express, Vector Embeddings, LLM APIs</sub>  
 > ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/EngChi)**
+
+### 📚 Library Management System (Personal Project)
+> Developed a web-based application to manage book inventory and member borrowing records for small-scale libraries.
+>
+> <sub>**Tech:** JavaFX
+> ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/MoneyManager-main)**
 
 ## 🚀 Tech Stack
 
