@@ -14,9 +14,9 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 - **🤖 AI & Natural Language Processing:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,pandas,numpy,jupyter" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,pandas,numpy,jupyter&cache_bust=1" />
     </a>
-  </p>
+</p>
 
 - **🌐 Web Development & Deployment:**
   <p align="left">
