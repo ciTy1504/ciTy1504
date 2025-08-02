@@ -74,21 +74,21 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 - **🤖 AI, Machine Learning & Data Science:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,sklearn,pandas,numpy,jupyter,opencv&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda,opencv&cache_bust=1" />
     </a>
   </p>
 
 - **🌐 Web Development & Deployment:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nextjs,nodejs,fastapi,flask,docker,aws,gcp&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nextjs,nodejs,fastapi,firebase,flutter,flask,docker,supabase,aws,gcp&cache_bust=1" />
     </a>
   </p>
   
 - **🛢️ Languages, Databases & Tools:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,cpp,c,bash,postgresql,mongodb,redis,git,github,vscode,latex,notion&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=java,cpp,c,bash,postgresql,mongodb,redis,git,github,vscode,pycharm,latex,notion&cache_bust=1" />
     </a>
   </p>
   
