@@ -38,9 +38,9 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 > ➡️ **[View Project Details & My Role](https://github.com/ciTy1504/showcase-toxic-comment-classification)**
 
 ### 📹 Real-time Video Content Analysis
-> Built a real-time pipeline to detect sensitive content (political, violent) from live TV streams. The YOLOv8 model reached an **mAP@50-95 of over 70%**.
+> Built a real-time pipeline to detect sensitive content (political, violent) from live TV streams. The YOLOv12 model reached an **mAP@50-95 of over 70%**.
 >
-> <sub>**Tech:** YOLOv8, PyTorch, OpenCV, Video Streaming, Incremental Learning</sub>  
+> <sub>**Tech:** YOLOv12, PyTorch, OpenCV, Video Streaming, SAHI, Incremental Learning</sub>  
 > ➡️ **[View Project Details & My Role](https://github.com/ciTy1504/showcase-video-analysis-system)**
 
 ### 🛡️ Network Anomaly Detection (IDS/IPS)
