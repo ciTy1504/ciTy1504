@@ -29,7 +29,7 @@
 
 _A selection of projects where I applied my skills in AI, NLP, and Computer Vision to solve real-world problems. For proprietary projects, I provide a detailed description of the architecture, my contributions, and the outcomes._
 
-### 🏛️ Draft Law Advisory Chatbot
+### 🏛️ Draft Law Advisory Chatbot (UBND Thanh Hóa)
 > Developed an AI chatbot to assist internal teams in reviewing draft laws. After receiving a draft proposal, the system performs RAG (Retrieval-Augmented Generation) over related legal codes, identifies amendments or supplements mentioned, detects potentially relevant laws not explicitly referenced (e.g., a draft on agriculture may relate to land law), and provides decisions with detailed explanations.
 >
 > <sub>**Tech:** NLP, RAG, LLMs (GPT/Qwen), Vector Embeddings, Knowledge Graph, FastAPI</sub>  
@@ -42,7 +42,7 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 > <sub>**Tech:** NLP, LLMs (GPT/Qwen), Vector Embeddings, FastAPI, Internal Knowledge Base</sub>  
 > ➡️ **[Project Details & My Role – Private due to NDA]**
 
-### 📄 Linked Legal Document Storage System
+### 📄 Linked Legal Document Storage System (VCB)
 > Built a document storage system for legal texts with rich relational modeling, allowing tracking of edits, additions, or deletions across articles and clauses between different legal documents. Enables internal teams to navigate legal dependencies efficiently.
 >
 > <sub>**Tech:** Graph Database, Python, Neo4j/Custom NoSQL, Data Modeling, FastAPI</sub>  
@@ -54,25 +54,25 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 > <sub>**Tech:** VLMs, Toolformer, Python, Pandas, Plotly, FastAPI, Vector Embeddings</sub>  
 > ➡️ **[Project Details & My Role – Private due to NDA]**
 
-### 💬 Vietnamese Toxic Comment Classification
+### 💬 Vietnamese Toxic Comment Classification (VNPT)
 > Developed a multi-label classification system to detect toxic content for a corporate partner (VNPT). Achieved an **F1-score of 0.96+** in production.
 > 
 > <sub>**Tech:** PhoBERT, LLMs (GPT/Qwen), PyTorch, Few-shot Learning, FastAPI</sub>  
 > ➡️ **[Project Details & My Role – Private due to NDA]**
 
-### 📹 Real-time Video Content Analysis
+### 📹 Real-time Video Content Analysis (VNPT)
 > Built a real-time pipeline to detect sensitive content (political, violent) from live TV streams. The YOLOv12 model reached an **mAP@50-95 of over 70%**.
 >
 > <sub>**Tech:** YOLOv12, PyTorch, OpenCV, Video Streaming, SAHI, Incremental Learning</sub>  
 > ➡️ **[Project Details & My Role – Private due to NDA]**
 
-### 🛡️ Network Anomaly Detection (IDS/IPS)
+### 🛡️ Network Anomaly Detection (IDS/IPS) (SCS)
 > **Partner: SCS** | Developed an ML-based Intrusion Detection System to identify anomalous network behavior. The system analyzes multi-level data (packet, host, application) to enhance detection accuracy. I was responsible for data analysis, experimenting with models, and proposing solution improvements.
 >
 > <sub>**Tech:** XGBoost, Isolation Forest, Time-series Embedding, Scapy, Wireshark</sub>  
 > ➡️ **[Project Details & My Role – Private due to NDA]**
 
-### 🌐 Malicious Domain Detection
+### 🌐 Malicious Domain Detection (SCS)
 > Designed a hybrid system (Rule-based + ML) to identify and block malicious websites, achieving **99.24% accuracy** on real-world traffic data for a cybersecurity partner (SCS).
 >
 > <sub>**Tech:** PyTorch, HDFS, FastAPI, Docker, Feature Engineering, Monitoring</sub>  
