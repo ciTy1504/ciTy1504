@@ -25,6 +25,15 @@
 
 ---
 
+## 📚 Publications & Learning Materials
+
+I have authored several comprehensive materials on NLP and AI, openly shared for the community:
+
+- **[Encyclopedia of NLP – Theory & Practice](https://github.com/ciTy1504/intro-to-nlp/blob/main/NLP_all.pdf)**  
+  A full textbook covering both theoretical foundations (linguistics, statistical models, neural nets, Transformers, LLMs, alignment, benchmarking) and practical guides (data collection, model training, deployment, MLOps).  
+  📄 PDF version is available and regularly updated in the repository.  
+
+---
 ## 🚀 My Featured Projects
 
 _A selection of projects where I applied my skills in AI, NLP, and Computer Vision to solve real-world problems. For proprietary projects, I provide a detailed description of the architecture, my contributions, and the outcomes._
