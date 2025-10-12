@@ -46,15 +46,9 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 
 ### 🛡️ Viettel Cyber Security (VCS) – Technical Specialist Projects  
 
-> As a Technical Support Specialist at VCS (since 09/2025), I worked on multiple in-house projects to strengthen network security and protect users from cyber threats.  
+> As a intern at VCS (since 09/2025), I worked on multiple in-house projects to strengthen network security and protect users from cyber threats.  
 
-#### 🚨 Project 1 – DoS & DDoS Attack Detection  
-> Built and deployed a detection system for Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) attacks. The system analyzes network traffic patterns in real-time to identify abnormal behaviors, enabling rapid mitigation and prevention.  
->
-> <sub>**Tech:** Network Traffic Analysis, ML-based Anomaly Detection, Python, Scapy, IDS/IPS Integration</sub>  
-> ➡️ **[Project Details & My Role – Internal Work]**
-
-#### 📞 Project 2 – Scam Call & Social Media Fraud Detection  
+#### 📞 Project 1 – Scam Call & Social Media Fraud Detection  
 > Developed a system to detect fraudulent activities through phone calls and social media platforms. Combined NLP-based content analysis with behavioral pattern recognition to identify scam attempts and alert users in real time.  
 >
 > <sub>**Tech:** NLP, Voice/Text Classification, ML Pipelines, FastAPI, Realtime Monitoring</sub>  
