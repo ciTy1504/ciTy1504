@@ -22,7 +22,7 @@
 
 - 🎓 Final-year Computer Science student at **Hanoi University of Science and Technology (HUST)**
 - 🧑‍🔬 Research Assistant at **AI4LIFE Research Center** (since 11/2024)
-- 🛡️ Technical Support Specialist at **Viettel Cyber Security (VCS)** (since 09/2025, concurrently)
+- 🛡️ **Viettel Cyber Security (VCS)** (since 09/2025, concurrently)
 - 🌱 Passionate about AI, Web Dev, UX/UI & solving real-world problems
 
 ---
