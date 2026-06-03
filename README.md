@@ -37,7 +37,7 @@ I have authored several comprehensive materials on NLP and AI, openly shared for
   A full textbook covering both theoretical foundations (linguistics, statistical models, neural nets, Transformers, LLMs, alignment, benchmarking) and practical guides (data collection, model training, deployment, MLOps).  
   📄 PDF version is available and regularly updated in the repository.  
 
-- **[Encyclopedia of CV – Theory & Practice](https://github.com/ciTy1504/intro-to-cv/blob/main/CV_all.pdf)**  
+- **[Encyclopedia of CV – Theory & Practice](https://github.com/ciTy1504/intro-to-cv/blob/main/Tex/main.pdf)**  
   A full textbook covering both theoretical foundations (linguistics, statistical models, neural nets, CNN, ViT, alignment, benchmarking) and practical guides (data collection, model training, deployment, MLOps).  
   📄 PDF version is available and regularly updated in the repository.  
 
