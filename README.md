@@ -137,7 +137,7 @@ _A selection of projects where I applied my skills in AI, NLP, and Computer Visi
 > A full-stack web application to help users learn English/Chinese. Integrated LLMs for 8 features including interactive chat, grammar correction, and text-to-speech.  
 >
 > <sub>**Tech:** React, Tailwind, Node.js, Express, Vector Embeddings, LLM APIs</sub>  
-> ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/EngChi)**
+> ➡️ **[View on GitHub (Live Code)](https://engchi-app.web.app/)**
 
 #### 📚 Project 2 – Library Management System  
 > Developed a web-based application to manage book inventory and member borrowing records for small-scale libraries.  
