@@ -1,197 +1,145 @@
+<a href="https://portfolio-64c65.web.app">
+  <img src="assets/banner.jpg" alt="Đinh Công Thái – AI that reads, sees and defends" width="100%" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Đinh Công Thái</h1>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;AI+Projects+%2F+Agentic+%2F+LLMs&RLMs;Always+learning+%E2%9C%A8+Building+cool+things" />
-</p>
-
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt2Z20waXF3Z2czZmxmN3p1dmJmZjJzZ2VhbXY3djluN2YweDRxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="250" alt="coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Junior+AI+Engineer+%40+Viettel+Cyber+Security;LLMs+for+cybersecurity+%2F+Agents+%2F+RAG;NLP+%C2%B7+Computer+Vision+%C2%B7+Data+design" alt="Typing intro" />
 </p>
 
 <p align="center">
+  <a href="https://portfolio-64c65.web.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thai-dinh-cong/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bong1552004@gmail.com"><img src="https://img.shields.io/badge/Email-F54A4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ciTy1504"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://portfolio-64c65.web.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
 ---
 
 ## 🧠 About Me
 
-- 🎓 Final-year Computer Science student at **Hanoi University of Science and Technology (HUST)**
-- 🧑‍🔬 Research Assistant at **AI4LIFE Research Center** (since 11/2024)
-- 🛡️ **Viettel Cyber Security (VCS)** (since 09/2025, concurrently)
-- 🌱 Passionate about AI, Web Dev, UX/UI & solving real-world problems
+- 🛡️ **Junior AI Engineer at [Viettel Cyber Security](https://viettelcybersecurity.com/)** (since 2025): LLMs for cybersecurity, scam detection, training data for agents
+- 🧑‍🔬 **Research Assistant at [AI4LIFE Research Center](https://ai4life.hust.edu.vn/)**, HUST (since 11/2024)
+- 🎓 **B.Eng. Computer Science (AI)**, Hanoi University of Science and Technology, 2022–2026, graduated with a *Very Good* degree
+- 🥈 Second Prize, Vietnam National Physics Olympiad 2022
 
 ---
----
 
+## 📄 Research
 
-## 📚 Publications & Learning Materials
+| | Paper | Venue | Status |
+|---|---|---|---|
+| 🎙️ | **SAID: Speaker-Invariant Adversarial Identity Disentanglement for Robust Low-Resource Speaker Verification** | CSoNet 2026, Ho Chi Minh City | ✅ Accepted |
+| 📞 | **ViScam**: a dataset on Vietnamese scams, and the paper that introduces it | EACL 2027 (CORE A) | 📝 Under review |
 
-I have authored several comprehensive materials on NLP and AI, openly shared for the community:
+**Open learning materials** I wrote and keep updating:
 
-- **[Encyclopedia of NLP – Theory & Practice](https://github.com/ciTy1504/intro-to-nlp/blob/main/NLP_all.pdf)**  
-  A full textbook covering both theoretical foundations (linguistics, statistical models, neural nets, Transformers, LLMs, alignment, benchmarking) and practical guides (data collection, model training, deployment, MLOps).  
-  📄 PDF version is available and regularly updated in the repository.  
-
-- **[Encyclopedia of CV – Theory & Practice](https://github.com/ciTy1504/intro-to-cv/blob/main/Tex/main.pdf)**  
-  A full textbook covering both theoretical foundations (linguistics, statistical models, neural nets, CNN, ViT, alignment, benchmarking) and practical guides (data collection, model training, deployment, MLOps).  
-  📄 PDF version is available and regularly updated in the repository.  
+- 📘 **[Encyclopedia of NLP – Theory & Practice](https://github.com/ciTy1504/intro-to-nlp/blob/main/NLP_all.pdf)**: linguistics, statistical models, neural nets, Transformers, LLMs, alignment, benchmarking, plus data collection, training, deployment and MLOps.
+- 📗 **[Encyclopedia of CV – Theory & Practice](https://github.com/ciTy1504/intro-to-cv/blob/main/Tex/main.pdf)**: CNNs, ViTs, alignment, benchmarking, plus the same end-to-end practical guides.
 
 ---
----
 
-## 🚀 My Featured Projects
+## 🎤 Talks & Community · 2026
 
-_A selection of projects where I applied my skills in AI, NLP, and Computer Vision to solve real-world problems. For proprietary projects, I provide a detailed description of the architecture, my contributions, and the outcomes._
-
-### 🛡️ Viettel Cyber Security (VCS) – Technical Specialist Projects  
-
-> As a intern at VCS (since 09/2025), I worked on multiple in-house projects to strengthen network security and protect users from cyber threats.  
-
-#### 📞 Project 1 – Scam Call & Social Media Fraud Detection  
-> Developed a system to detect fraudulent activities through phone calls and social media platforms. Combined NLP-based content analysis with behavioral pattern recognition to identify scam attempts and alert users in real time.  
->
-> <sub>**Tech:** NLP, Voice/Text Classification, ML Pipelines, FastAPI, Realtime Monitoring</sub>  
-> ➡️ **[Project Details & My Role – Internal Work]**
----
-### 🏛️ Draft Law Advisory Chatbot (UBND Thanh Hóa)
-> Developed an AI chatbot to assist internal teams in reviewing draft laws. After receiving a draft proposal, the system performs RAG (Retrieval-Augmented Generation) over related legal codes, identifies amendments or supplements mentioned, detects potentially relevant laws not explicitly referenced (e.g., a draft on agriculture may relate to land law), and provides decisions with detailed explanations.
->
-> <sub>**Tech:** NLP, RAG, LLMs (GPT/Qwen), Vector Embeddings, Knowledge Graph, FastAPI</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
----
-### ⚖️ Vietcombank (VCB) – Legal Data & AI Projects  
-
-> I worked on three different projects with VCB, focusing on building AI-powered tools and infrastructure to handle large-scale legal and financial data.  
-
-#### 📄 Project 1 – Linked Legal Document Storage System  
-> Built a document storage system for legal texts with rich relational modeling, allowing tracking of edits, additions, or deletions across articles and clauses between different legal documents. Enables internal teams to navigate legal dependencies efficiently.  
->
-> <sub>**Tech:** Graph Database, Python, Neo4j/Custom NoSQL, Data Modeling, FastAPI</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-#### 🧩 Project 2 – Metadata Extraction & Data Completion Tool  
-> Developed a system to extract metadata and relationships between laws, then automatically filled missing field values in internal datasets to enhance data consistency and usability.  
->
-> <sub>**Tech:** NLP, Information Extraction, Python, FastAPI, Data Cleaning Pipelines</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-#### 🏗️ Project 3 – Advanced Text2SQL with Context Engineering  
-> Designed a framework for **Context Engineering** to enhance Text2SQL performance on massive databases. The system dynamically adapts prompts and query decomposition to handle complex financial/legal database queries.  
->
-> <sub>**Tech:** LLMs (GPT/Qwen), Text2SQL, Prompt/Context Engineering, Knowledge Graphs, SQL Optimization</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/sbc-booth.jpg" alt="At Security Bootcamp 2026 with Viettel Cyber Security" width="100%" /><br/>
+      <b>🎤 Speaker – Security Bootcamp 2026</b><br/>
+      <sub>Talk 18 · Agentic Security · Buôn Ma Thuột, Sep 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.youtube.com/watch?v=86HbU_pguAk&t=172s"><img src="assets/cyber-insider.jpg" alt="Guest on the Cyber Insider podcast" width="100%" /></a><br/>
+      <b>🎧 Guest – <a href="https://www.youtube.com/watch?v=86HbU_pguAk&t=172s">Cyber Insider #02</a></b><br/>
+      <sub>Bringing AI into security monitoring and cutting SOC alert noise</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/cyseex-2026.jpg" alt="At the CYSEEX 2026 conference" width="100%" /><br/>
+      <b>🛡️ <a href="https://www.cyseex.vn/hoi-thao-2026/">CYSEEX 2026</a></b><br/>
+      <sub>Autonomous defence in the AI & post-quantum era · Hà Nội, Oct 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/vcs-team.jpg" alt="Viettel Cyber Security AI Lab team, 2026" width="100%" /><br/>
+      <b>👥 Viettel Cyber Security – AI Lab</b><br/>
+      <sub>The team, 2026</sub>
+    </td>
+  </tr>
+</table>
 
 ---
-### 📊 Internal Statistics Chatbot – MB Bank (MBB)
-> Developed an internal chatbot for MB Bank employees to query statistics, reports, and tabular data. Utilizes Visual Language Models (VLM) with Toolformer integration for interactive data analysis and visualization.
->
-> <sub>**Tech:** VLMs, Toolformer, Python, Pandas, Plotly, FastAPI, Vector Embeddings</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
+
+## 🚀 Featured Work
+
+_Most of this was built for industry partners under NDA, so only the summaries are public. Happy to walk through the architecture in an interview._
+
+### 🛡️ Viettel Cyber Security
+- **ViScam – Vietnamese scam dataset & paper** · building the dataset and writing the paper (EACL 2027 submission)
+- **Scam call & social-media fraud detection** · NLP content analysis plus behavioural patterns to flag scams in real time
+- **LLM fine-tuning for security** · owning the training data: continued pre-training (CPT) corpora, long-context data and optimised agent trajectories
+
+<sub>**Tech:** LLMs, CPT, Agents, NLP, Voice/Text classification, ML pipelines, FastAPI</sub>
+
+### ⚖️ Legal & Banking AI (AI4LIFE × industry partners)
+| Project | Partner | Highlights |
+|---|---|---|
+| 🏛️ Draft-law advisory chatbot | UBND Thanh Hóa | RAG + multi-label classification finds cited *and* uncited relevant laws, with fully referenced advice |
+| 📄 Version-aware legal knowledge base | Vietcombank | MongoDB + Neo4j, keeps the original and the currently effective text of every clause |
+| 🧩 Metadata extraction & data completion | Vietcombank | Extracts relationships between laws and fills missing fields in internal datasets |
+| 💬 Legal & compliance chatbot | Vietcombank | Version-aware RAG, always answers from the regulation in force |
+| 🏗️ Text2SQL with context engineering | Vietcombank | Adaptive prompts and query decomposition over very large databases |
+| 📊 Data-analytics agent | MB Bank | Tool-using LLM: retrieves, computes trends with Pandas, answers with charts |
+
+### 🎥 Media & Security AI
+| Project | Partner | Result |
+|---|---|---|
+| 📝 Real-time toxic comment moderation | VNPT-Media | **F1 0.9892** in production (rules → PhoBERT → LLM cascade) |
+| 📹 Live TV content moderation | VNPT-Media | YOLOv12 + OCR + tracking at **25 fps**, mAP above **70%** |
+| 🌐 Malicious domain detection | SCS | **99.24% accuracy**, deep model with an XGBoost fail-safe |
+
+### 🌟 Personal
+- 🤖 **[AI-powered language learning app](https://engchi-app.web.app/)** · English/Chinese, 8 LLM-powered modules including a conversational tutor · [demo on TikTok](https://www.tiktok.com/@koong_t/video/7694247700233162004)
+- 🌐 **[This portfolio](https://portfolio-64c65.web.app)** · hand-written HTML/CSS/JS with GSAP, Lenis and a three.js hero
 
 ---
-### 💬 VNPT – AI for Content Moderation & Media Analysis  
 
-> I collaborated with VNPT on multiple AI projects focused on text and video content moderation for real-world applications.  
+## 🧰 Tech Stack
 
-#### 📝 Project 1 – Vietnamese Toxic Comment Classification  
-> Developed a multi-label classification system to detect toxic content for a corporate partner (VNPT). Achieved an **F1-score of 0.96+** in production.  
->
-> <sub>**Tech:** PhoBERT, LLMs (GPT/Qwen), PyTorch, Few-shot Learning, FastAPI</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
+**AI / ML**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda,opencv" />
+</p>
 
-#### 📹 Project 2 – Real-time Video Content Analysis  
-> Built a real-time pipeline to detect sensitive content (political, violent) from live TV streams. The YOLOv12 model reached an **mAP@50-95 of over 70%**.  
->
-> <sub>**Tech:** YOLOv12, PyTorch, OpenCV, Video Streaming, SAHI, Incremental Learning</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
+**Backend, Web & Deployment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,ts,js,tailwind,threejs,flutter,firebase,docker,linux,gcp,aws" />
+</p>
+
+**Data & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,git,github,vscode,latex,notion" />
+</p>
+
+<sub>Also: Hugging Face Transformers, RAG, vector DBs (FAISS, Milvus), Neo4j, YOLOv12, PhoBERT, Weights & Biases</sub>
 
 ---
-### 🛡️ SCS – Cybersecurity AI Projects  
 
-> I collaborated with SCS on multiple projects to enhance cybersecurity capabilities using machine learning and AI techniques.  
-
-#### 📡 Project 1 – Network Anomaly Detection (IDS/IPS)  
-> Developed an ML-based Intrusion Detection System to identify anomalous network behavior. The system analyzes multi-level data (packet, host, application) to enhance detection accuracy. I was responsible for data analysis, experimenting with models, and proposing solution improvements.  
->
-> <sub>**Tech:** XGBoost, Isolation Forest, Time-series Embedding, Scapy, Wireshark</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-#### 🌐 Project 2 – Malicious Domain Detection  
-> Designed a hybrid system (Rule-based + ML) to identify and block malicious websites, achieving **99.24% accuracy** on real-world traffic data.  
->
-> <sub>**Tech:** PyTorch, HDFS, FastAPI, Docker, Feature Engineering, Monitoring</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
----
-
-### 🌟 Personal Projects  
-
-> A selection of my personal projects where I applied AI and software development skills to build practical applications.  
-
-#### 🤖 Project 1 – AI-Powered Language Learning App  
-> A full-stack web application to help users learn English/Chinese. Integrated LLMs for 8 features including interactive chat, grammar correction, and text-to-speech.  
->
-> <sub>**Tech:** React, Tailwind, Node.js, Express, Vector Embeddings, LLM APIs</sub>  
-> ➡️ **[View on GitHub (Live Code)](https://engchi-app.web.app/)**
-
-#### 📚 Project 2 – Library Management System  
-> Developed a web-based application to manage book inventory and member borrowing records for small-scale libraries.  
->
-> <sub>**Tech:** JavaFX</sub>  
-> ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/MoneyManager-main)**
----
----
-
-### 🧠 My Core Expertise & Technical Skills
-
-My skill set is centered around the AI/ML ecosystem, with a strong supporting foundation in web technologies and a focus on efficient tooling.
-
-- **🤖 AI, Machine Learning & Data Science:**
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda,opencv&cache_bust=1" />
-    </a>
-  </p>
-
-- **🌐 Web Development & Deployment:**
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nextjs,nodejs,fastapi,firebase,flutter,flask,docker,supabase,aws,gcp&cache_bust=1" />
-    </a>
-  </p>
-  
-- **🛢️ Languages, Databases & Tools:**
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,cpp,c,bash,postgresql,mongodb,redis,git,github,vscode,pycharm,latex,notion&cache_bust=1" />
-    </a>
-  </p>
-  
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ciTy1504&show_icons=true&theme=radical&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciTy1504&layout=compact&theme=radical&count_private=true&hide=css,html,shell,dockerfile" width="47%" />
-</p>
-
----
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:bong1552004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ciTy1504"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://portfolio-64c65.web.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ciTy1504&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciTy1504&layout=compact&theme=radical&count_private=true&hide=css,html,shell,dockerfile" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+  <a href="https://portfolio-64c65.web.app"><b>portfolio-64c65.web.app</b></a> ·
+  <a href="https://www.linkedin.com/in/thai-dinh-cong/">LinkedIn</a> ·
+  <a href="mailto:bong1552004@gmail.com">bong1552004@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
