@@ -29,7 +29,7 @@
 
 | | Paper | Venue | Status |
 |---|---|---|---|
-| 📞 | **ViScamDial: Theory-Informed Adversarial Multi-Agent Synthetic Data for Vietnamese Vishing Detection** (first author) | Findings of EACL 2027 | ✅ Accepted |
+| 📞 | **ViScamDial: Theory-Informed Adversarial Multi-Agent Synthetic Data for Vietnamese Vishing Detection** (first author) | Findings of EACL 2027 (CORE A) | ✅ Accepted |
 | 🎙️ | **SAID: Speaker-Invariant Adversarial Identity Disentanglement for Robust Low-Resource Speaker Verification** | CSoNet 2026, Ho Chi Minh City | 🎤 Presented, Nov 2026 |
 
 **Open learning materials** I wrote and keep updating:
@@ -75,7 +75,7 @@
 _Most of this was built for industry partners under NDA, so only the summaries are public. Happy to walk through the architecture in an interview._
 
 ### 🛡️ Viettel Cyber Security
-- **ViScamDial – adversarial multi-agent synthetic data for Vietnamese vishing detection** · first-author paper, accepted to Findings of EACL 2027
+- **ViScamDial – adversarial multi-agent synthetic data for Vietnamese vishing detection** · first-author paper, accepted to Findings of EACL 2027 (CORE A)
 - **Scam call & social-media fraud detection** · NLP content analysis plus behavioural patterns to flag scams in real time
 - **LLM fine-tuning for security** · owning the training data: continued pre-training (CPT) corpora, long-context data and optimised agent trajectories
 
